@@ -15,3 +15,13 @@ The site will have many filter options and criteria for choosing a car model.
 The site will be written frontend in html, css, heat script, so far so good. Backend possibly php or go)
 
 The main point of the site is to provide the opportunity for good design and information for car users, whether for dummies or for experts. Style, convenience, practicality and information is what describes the site and will distinguish it from others.
+
+
+
+What will be on the site:
+
+1. Wikipedia / Documentation - 	Information about the Audi 80: history, technical specifications, and equipment types. Includes the ability to compare models, and features.
+2. Forum - A tab for discussing technical issues, sharing experiences, and providing advice on repairs and maintenance.
+3. Gallery - photos of the Audi 80. Includes images of various modifications and tunings.
+4. Repairs / Repairs Parts - A place where people will find lists of basic issues, what (where find it) and how to fix it.
+   
