@@ -27,7 +27,6 @@ What will be on the site:
 
 
 
-
 Architecture of site:
 
 front-end - html, csc, javascript 
