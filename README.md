@@ -30,7 +30,11 @@ What will be on the site:
 Architecture of site:
 
 front-end - html, csc, javascript 
+
 back-end - golang
+
 auth - register users for ability to use forum 
+
 database - the database of forum users
+
 payment (optionally) - users can sent donations
