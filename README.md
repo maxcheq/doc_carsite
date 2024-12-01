@@ -25,7 +25,7 @@ What will be on the site:
 3. Gallery - photos of the Audi 80. Includes images of various modifications and tunings.
 4. Repairs / Repairs Parts - A place where people will find lists of basic issues, what (where find it) and how to fix it.
 
-
+-----------------------------------------
 
 Architecture of site:
 
